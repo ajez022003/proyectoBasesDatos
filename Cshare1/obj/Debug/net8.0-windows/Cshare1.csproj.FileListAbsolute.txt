@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Cshare1\bin\Debug\net8.0-windows\Cshare1.exe
+C:\Users\dell\source\repos\Cshare1\bin\Debug\net8.0-windows\Cshare1.deps.json
+C:\Users\dell\source\repos\Cshare1\bin\Debug\net8.0-windows\Cshare1.runtimeconfig.json
+C:\Users\dell\source\repos\Cshare1\bin\Debug\net8.0-windows\Cshare1.dll
+C:\Users\dell\source\repos\Cshare1\bin\Debug\net8.0-windows\Cshare1.pdb
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.Form1.resources
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.AssemblyInfo.cs
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.dll
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\refint\Cshare1.dll
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.pdb
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\Cshare1.genruntimeconfig.cache
+C:\Users\dell\source\repos\Cshare1\obj\Debug\net8.0-windows\ref\Cshare1.dll
